@@ -1,0 +1,15 @@
+I am the lead for the  backend development
+I assigned task
+I came up With the algorithm for the implementation
+Wrote majority of the backend code
+
+The issues i resolved: https://github.com/zuri-training/t_c_gen_team_72/issues/57,
+                        https://github.com/zuri-training/t_c_gen_team_72/issues/1
+
+
+Major changes i contributed to: https://github.com/zuri-training/t_c_gen_team_72/pull/102
+                                https://github.com/zuri-training/t_c_gen_team_72/pull/99
+                                https://github.com/zuri-training/t_c_gen_team_72/pull/95
+                                https://github.com/zuri-training/t_c_gen_team_72/pull/90
+                                https://github.com/zuri-training/t_c_gen_team_72/pull/72
+                                https://github.com/zuri-training/t_c_gen_team_72/pull/33
